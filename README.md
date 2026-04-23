@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Agatsya Acharya
 
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1531297484001-80022131f5a1" width="200" style="border-radius:50%;" alt="Profile Image](https://drive.google.com/file/d/1BLGdXDp_iBgMVmQc9_ltqNISRIOnLKl_/view?usp=sharing)"/>
+  <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1" width="200" style="border-radius:50%;" alt="Profile Image"/>
 </p>
 
 🎓 Graduate Student | 💻 Data Science & Machine Learning | 🚀 Tech Enthusiast  
