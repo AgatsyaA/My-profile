@@ -63,7 +63,7 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/agatsya-acharya-b766ba33a/)]  
-- 📧 Email: your.email@example.com  
+- 📧 Email: aa506@rice.edu 
 
 ---
 
