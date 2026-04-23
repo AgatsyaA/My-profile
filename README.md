@@ -62,7 +62,7 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/agatsya-acharya-b766ba33a/)]  
+- 💼 LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/agatsya-acharya-b766ba33a/)]  
 - 📧 Email: your.email@example.com  
 
 ---
