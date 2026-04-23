@@ -56,7 +56,7 @@
 
 ![Agatsya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgatsyaA&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgatsyaA&layout=compact)
 
 ---
 
